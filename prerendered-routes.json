@@ -1,3 +1,10 @@
 {
-  "routes": {}
+  "routes": {
+    "/": {},
+    "/about-us": {},
+    "/careers": {},
+    "/contact-us": {},
+    "/products": {},
+    "/services": {}
+  }
 }
